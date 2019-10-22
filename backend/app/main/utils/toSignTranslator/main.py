@@ -1,11 +1,9 @@
 import speech_recognition as sr
 import numpy as np
 import cv2
-from easygui import *
 import os
-from PIL import Image, ImageTk
+from PIL import Image
 from itertools import count
-import tkinter as tk
 import string
 import os
 import base64
