@@ -1,2 +1,2 @@
-connect-all-backend: python3 manage.py run
-im4all: python3 server.py
+connect-all-backend: python3 backend/manage.py run
+im4all: python3 im4all/server.py
