@@ -52,5 +52,15 @@ cd /backend
 pipenv shell --three    #only the first time
 python3 manage.py run
 ```
+## Frontend
+
+To deploy the frontend on zeit
+
+```shell
+cd /frontend/web
+npm i -g now    #intall now cli
+now login
+now
+```
 
 Open the respective link to view the rest API and test it.
