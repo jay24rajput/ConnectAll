@@ -1,5 +1,7 @@
 # Connect All
 
+Connect All is an application developed to help the disabled communicate and live life normally. This was developed in a 36 hours hackathon and is a very complex project. The documentation needs to be improved as well as better deployment methods need to be employed.
+
 You may use this app in 3 ways -
 - Deployed with zeit - http://web.jvank.now.sh . You may use this app to access all facilities.
 - Instructions for creating a zulip-bot for the same is given below in the README.
