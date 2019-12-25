@@ -14,7 +14,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D 
 import json
-from tika import parser
 from xml.etree import ElementTree
 
 def pil_to_array(pil_image):
